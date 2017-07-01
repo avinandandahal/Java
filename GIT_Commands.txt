@@ -1,0 +1,11 @@
+-
+-
+-
+-
+-git clone <remote path>
+-git add .
+-git config --global user.email "avidahal02@gmail.com"
+-git config --global user.name "avi"
+-git commit -m "first commit"
+-git push -u origin master
+-git status

@@ -31,6 +31,7 @@ public class insertionSort {
 			System.out.print(i + " ");
 		}
 		System.out.println();
+		
 
 		insertionSort(arr1);// sorting array using insertion sort
 
